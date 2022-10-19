@@ -1,0 +1,6 @@
+package com.example.denemebir
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
